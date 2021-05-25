@@ -1,2 +1,95 @@
 # English-Writing-Style
-Style guide for English writing.
+
+The guide proposes rules that help standardize English writing. I'm using it to make my writing more consistent. 
+Content on [my site](https://www.uniqiao.com) is an example.
+
+## Rules
+
+Organized in alphabetical order.
+
+### Abbreviation
+
+Use abbreviations to achieve a friendly tone — like `the US`, `we'll`, and `app`.
+
+### Article
+
+If the noun at issue is too generic and needs to be specified, use the definite article `the`. 
+Otherwise, use the indefinite article `a` or `an`, or don't use any article. 
+Check out [Articles: A Complete Grammar Guide](https://www.grammarly.com/blog/articles/) by Grammarly for more details.
+
+### Capitalization
+
+There are two major capitalization styles for headlines and titles: sentence case and title case. 
+In sentence case, only the first letter of the first word and proper nouns are capitalized, 
+whereas in title case, all words except for articles, conjunctions, and short prepositions are capitalized. 
+Use [Headline Capitalization](https://headlinecapitalization.com) to make sure headlines and titles are properly written.
+
+For file extensions, use either XXX or .xxx. For example, `SVG` or `.svg`.
+
+### Colon
+
+Colons always go outside of bold formatting. 
+The first letter of a complete sentence following a colon should be capitalized.
+
+### Dash
+
+There are three kinds of dashes — hyphen, en dash, and the em dash. 
+Read more about [hyphen](https://www.grammarly.com/blog/hyphen/) and [dashes](https://www.grammarly.com/blog/dash/) at Grammarly.
+
+- Hyphen `-` join words or parts of words. Use a hyphen in a compound modifier when the modifier comes before the word it's modifying. 
+  For example, `click-through rate`.
+- En dash `–` has the length of the letter N. Use the en dash to indicate spans of time or range of numbers, for example, `7:00–8:00 am`. 
+  The en dash may also be used to indicate a connection between two words, for example, `north–south railway`.
+- Em dash `—` has the length of the letter M. Use the em dash to join parts of sentences. There are already examples in this guide. 
+  For more usage, read [em dash](https://www.grammarly.com/blog/why-you-should-love-the-em-dash/) at Grammarly.
+
+### Emoji
+
+Separate the emoji from the text with a space. Emojis don't replace punctuation.
+
+### Heading
+
+Use level 1–3 headings. Too many layers of heading undermine readability.
+
+### List
+
+Use unordered lists, unless describing sequential operations.
+
+It's hard to read when the noun is preceded by more than two modifiers. You can use possessive to deal with multiple modifiers, 
+generally, use `'s` after a living organism and a brand, while use `of` for possessive of a lifeless object.
+
+### Spelling
+
+Use American English. American and British English can be differentiated in [three ways](https://www.enago.com/documents/resources/BrE-AmE.pdf).
+
+### Tense
+
+Use the simple present tense. Avoid awkward future tense like `will be doing`.
+
+### Voice
+
+Use active voice, avoid slang and jargon, and write positively.
+
+## Resources
+
+Search [`awesome writing`](https://github.com/search?q=awesome+writing) on GitHub.
+
+### Courses
+
+- [Writing in the Sciences](https://www.coursera.org/learn/sciwrite) — Stanford University
+- [Good with Words: Writing and Editing Specialization](https://www.coursera.org/specializations/good-with-words) — University of Michigan
+- [Technical Writing Courses](https://developers.google.com/tech-writing) — Google Developers
+
+### Guides
+
+- [Google Developer Documentation Style Guide](https://developers.google.com/style/)
+- [The Chicago Manual of Style Online](https://www.chicagomanualofstyle.org/home.html)
+- [Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)
+
+### Tools
+
+- [Grammarly](https://www.grammarly.com/)
+- [Hemingway Editor](https://hemingwayapp.com/)
+- [DeepL](https://www.deepl.com/)
+- [Google Docs](https://docs.google.com/)
+- [Notion](https://notion.so/)
