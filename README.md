@@ -43,9 +43,9 @@ Read more about [hyphen](https://www.grammarly.com/blog/hyphen/) and [dashes](ht
 - Em dash `—` has the length of the letter M. Use the em dash to join parts of sentences. There are already examples in this guide. 
   For more usage, read [em dash](https://www.grammarly.com/blog/why-you-should-love-the-em-dash/) at Grammarly.
 
-### Emoji
+### Emoji/Emoticon
 
-Separate the emoji from the text with a space. Emojis don't replace punctuation.
+Separate the emoji/emoticon from the text with a space. Emojis/Emoticons don't replace punctuation.
 
 ### Heading
 
