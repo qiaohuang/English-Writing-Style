@@ -9,7 +9,11 @@ Organized in alphabetical order.
 
 ### Abbreviation
 
-Use abbreviations to achieve a friendly tone — like `the US`, `we'll`, and `app`.
+- Use abbreviations to achieve a friendly tone — like `the US`, `we'll`, and `app`.
+- `e.g.` vs `i.e.`. A period after both letters in both abbreviations is recommended.
+  - `e.g.` means “for the sake of example”, is used to give one or more possible examples. It’s a signal that you’re seeing one or a few of multiple possibilities.
+  - `i.e.` means “in other words”, is used to provide more precise information. Where `e.g.` opens up more options, `i.e.` narrows them down.
+  - Example: 1). After work, I’ll walk over to that new sports arena, i.e., Thunderdome. 2). After work, I’ll walk over to a sports arena, e.g., Thunderdome or Victory Court.
 
 ### Article
 
